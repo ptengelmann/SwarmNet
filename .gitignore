@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# Hardhat cache & artifacts
+contracts/cache/
+contracts/artifacts/
+
+# Build output
+client/build/
+
+# Logs
+logs/
+*.log
